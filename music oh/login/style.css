@@ -1,0 +1,50 @@
+body{
+    background-color:purple;
+}
+.login-page{
+    width:360px;
+    
+}
+.form{
+    background-color: white;
+    height:500px;
+    width:400px;
+    border-radius: 50px;
+}
+.demo{
+    margin-top: 100px;
+    background-color:white;
+    height: 40px;
+    width:300px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+.evanpro2009{
+height: 40px;
+width:300px;
+border-radius: 50px;
+margin-bottom: 100px;
+}
+h1{
+    color: white;
+    font-family: "Roboto",sans-serif;
+    margin-left:30px;
+}
+.evan807545{
+    background-color: purple;
+    font-family: "Roboto",sans-serif;
+    color: white;
+    height: 30px;
+    width:200px;
+    border-radius: 50px;
+}
+.evan807545:hover,.evan807545:active{
+    background-color: blueviolet;
+}
+script{
+    color:White;
+}
+a{
+    color: white;
+    font-family: "Roboto",sans-serif;
+}
